@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=435&lines=Machine+Learning+Researcher;Full+Stack+Developer;Open+Source+Enthusiast;Always+Learning+and+Building" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=435&lines=Machine+Learning+Researcher;Web+Developer;AI+Enthusiast" alt="Typing SVG"/>
   </a>
 </div>
 
@@ -63,20 +63,41 @@ Developed an AI-based web tool for vitamin deficiency detection through image an
 
 ## 💻 Technical Expertise
 
-**Languages:**  
-`Python`, `JavaScript`, `HTML`, `CSS`
+<table align="center">
+  <tr>
+    <th>Languages</th>
+    <th>Frameworks</th>
+    <th>ML/Data Science</th>
+    <th>Databases</th>
+    <th>Tools/Platforms</th>
+  </tr>
+  <tr>
+    <td>Python<br>JavaScript<br>HTML<br>CSS</td>
+    <td>React<br>Flask</td>
+    <td>TensorFlow<br>Keras<br>NumPy<br>Pandas<br>Jupyter Notebook</td>
+    <td>MySQL<br>Firebase</td>
+    <td>GitHub<br>Postman<br>VS Code</td>
+  </tr>
+</table>
 
-**Frameworks:**  
-`React`, `Flask`
-
-**ML/Data Science:**  
-`TensorFlow`, `Keras`, `NumPy`, `Pandas`, `Jupyter Notebook`
-
-**Databases:**  
-`MySQL`, `Firebase`
-
-**Tools/Platforms:**  
-`GitHub`, `Postman`, `VS Code`
+<!-- Animated Border Partition (SVG) -->
+<div align="center">
+  <svg width="90%" height="10">
+    <defs>
+      <linearGradient id="gradient">
+        <stop offset="0%" stop-color="#00e7ff">
+          <animate attributeName="offset" values="0;1;0" dur="3s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#FF5722">
+          <animate attributeName="offset" values="1;0;1" dur="3s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect width="100%" height="10" rx="5" fill="url(#gradient)">
+      <animate attributeName="x" from="0" to="100%" dur="2s" repeatCount="indefinite" />
+    </rect>
+  </svg>
+</div>
 
 ---
 
