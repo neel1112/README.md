@@ -94,13 +94,6 @@ Showcasing my activity and passion for development:
   <img src="https://github-contributions-rainbow-api.vercel.app/?username=neel1112&theme=dark" width="95%" alt="GitHub Activity Graph"/>
 </div>
 
----
-
-## ✍️ Dev Quote
-
-<div align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
 
 ---
 
