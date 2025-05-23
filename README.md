@@ -12,54 +12,43 @@
 
 ## 👋 About Me
 
-I'm **Neel Merja**, a **Computer Engineering** graduate from LDRP Institute of Technology and Research, Gandhinagar. My passion lies at the intersection of **Machine Learning**, **Data Analysis**, and the development of **AI-driven Web Applications**.
-
-Currently, I'm dedicated to building intelligent platforms that leverage ML for robust diagnosis and enhanced efficiency. I'm a firm believer in continuous learning, evidenced by my certifications in **Python for Data Science (NPTEL)** and **Soft Skills Enhancement**.
-
-Let's connect and innovate together!
-📫 Reach me at: **[neelmerja@gmail.com](mailto:neelmerja@gmail.com)**
+| Category      | Details                                                                    |
+| :------------ | :------------------------------------------------------------------------- |
+| 🎓 **Education** | B.E. in Computer Engineering from LDRP Institute of Technology and Research, Gandhinagar. |
+| 💡 **Interests** | Passionate about **Machine Learning**, **Data Analysis**, and **AI-driven Web Applications**. |
+| 💻 **Focus** | Currently building intelligent platforms for ML-based diagnosis and efficiency enhancement. |
+| 📫 **Contact** | Reach me at: **[neelmerja@gmail.com](mailto:neelmerja@gmail.com)** |
 
 ---
 
 ## 🚀 Key Projects
 
-My portfolio showcases a blend of full-stack development and cutting-edge AI integration:
-
-### 🔬 [Skin Diseases Detection](https://github.com/neel1112/skin_problem_detector)
-**Tech Stack:** `Python` | `ML` | `DL` | `TensorFlow` | `Flask` | `React` | `MySQL/Firebase`
-* Engineered a comprehensive web application for **AI-powered skin disease diagnosis** from images.
-* Seamlessly integrated advanced deep learning models with a full-stack web interface, providing **real-time analysis and accurate results**.
-
-### 💊 [Vita-Cam Efficiency](https://github.com/neel1112/vitamin-deficiency-detector)
-**Tech Stack:** `HTML` | `CSS` | `JavaScript` | `Machine Learning` | `Deep Learning`
-* Developed an innovative web tool utilizing AI to **analyze vitamin efficiency**.
-* Conducted analytical research to enhance **vitamin bioavailability**, translating insights into practical user guidance.
+| Project Title                                    | Tech Stack                                     | Summary                                                                                                                              |
+| :----------------------------------------------- | :--------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------- |
+| 🔬 [Skin Diseases Detection](https://github.com/neel1112/skin_problem_detector) | `Python` • `ML` • `DL` • `TensorFlow` • `Flask` • `React` • `MySQL/Firebase` | Engineered a web app for **AI-powered skin disease diagnosis** from images. Integrated deep learning models for **real-time analysis and accurate results**. |
+| 💊 [Vita-Cam Efficiency](https://github.com/neel1112/vitamin-deficiency-detector) | `HTML` • `CSS` • `JavaScript` • `Machine Learning` • `Deep Learning` | Developed an AI-based web tool for **analyzing vitamin efficiency**. Research focused on enhancing **vitamin bioavailability**.     |
 
 ---
 
 ## 🌟 Leadership & Community Engagement
 
-Beyond technical skills, I actively contribute through leadership and volunteering:
-
-* **Smart India Hackathon (SIH) - Co-Team Leader:** Successfully led a 6-member team in an AI-driven project to **analyze gender ratios in education**. Presented actionable insights through compelling dashboards and ML visualizations.
-* **NSS Volunteer:** Committed to social causes, actively participating in blood donation drives, health camps, disaster relief, and environmental initiatives.
+| Role                                     | Contribution                                                                                                     |
+| :--------------------------------------- | :--------------------------------------------------------------------------------------------------------------- |
+| **Smart India Hackathon (SIH) - Co-Team Leader** | Successfully led a 6-member team in an AI-driven project analyzing **gender ratios in education**. Presented actionable insights via dashboards and ML visualizations. |
+| **NSS Volunteer** | Actively participated in various social causes: blood donation, health camps, disaster relief, and environmental initiatives. |
 
 ---
 
 ## 🏅 Achievements & Certifications
 
-My commitment to innovation and growth is recognized by:
-
-* **Ideathon 2025:** Acknowledged for presenting **innovative project concepts** with significant future development potential.
-* **Certifications:**
-    * **Python with Data Science** – NPTEL *(Valid until 2027)*
-    * **Enhancing Soft Skills** – NPTEL
+| Category          | Details                                                                    |
+| :---------------- | :------------------------------------------------------------------------- |
+| **Ideathon 2025** | Acknowledged for presenting **innovative project concepts** with significant future development potential. |
+| **Certifications**| **Python for Data Science** – NPTEL *(Valid until 2027)* <br> **Enhancing Soft Skills** – NPTEL |
 
 ---
 
 ## 💻 Technical Expertise
-
-My versatile skill set allows me to build robust and intelligent applications:
 
 | Category          | Technologies                                                                 |
 | :---------------- | :--------------------------------------------------------------------------- |
@@ -97,12 +86,12 @@ I'm always open to discussing new ideas, collaborations, or opportunities. Let's
 Showcasing my activity and passion for development:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=neel1112&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=neel1112&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel1112&theme=radical&hide_border=false&layout=compact" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neel1112&theme=radical&hide_border=false" width="95%" alt="GitHub Activity Graph"/>
+  <img src="https://github-contributions-rainbow-api.vercel.app/?username=neel1112&theme=dark" width="95%" alt="GitHub Activity Graph"/>
 </div>
 
 ---
