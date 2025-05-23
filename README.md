@@ -56,7 +56,7 @@ Developed an AI-based web tool for vitamin deficiency detection through image an
   Recognized for presenting innovative project concepts with high development potential.
 
 - 📜 **Certifications:**  
-  - Python for Data Science – NPTEL *(Valid until 2027)*  
+  - Python for Data Science – NPTEL 
   - Enhancing Soft Skills – NPTEL
 
 ---
