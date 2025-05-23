@@ -10,106 +10,104 @@
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=text&color=gradient&text=%F0%9F%91%A8%E2%80%8D%F0%9F%8F%B3%20About%20Me&fontSize=30&fontColor=fff&animation=twinkling&height=50"/>
-</div>
+## 👋 About Me
 
-- 🎓 **B.E. in Computer Engineering** from *LDRP Institute of Technology and Research*, Gandhinagar, India.
-- 🧠 Passionate about **Machine Learning**, **Data Analysis**, and **AI-based Web Applications**.
-- 🌱 Currently working on ML-based diagnosis and efficiency enhancement platforms.
-- 🏆 Certified in **Python for Data Science (NPTEL)** and **Soft Skills Enhancement**.
-- 📫 Reach me at: **[neelmerja@gmail.com](mailto:neelmerja@gmail.com)**
+I'm **Neel Merja**, a **Computer Engineering** graduate from LDRP Institute of Technology and Research, Gandhinagar. My passion lies at the intersection of **Machine Learning**, **Data Analysis**, and the development of **AI-driven Web Applications**.
+
+Currently, I'm dedicated to building intelligent platforms that leverage ML for robust diagnosis and enhanced efficiency. I'm a firm believer in continuous learning, evidenced by my certifications in **Python for Data Science (NPTEL)** and **Soft Skills Enhancement**.
+
+Let's connect and innovate together!
+📫 Reach me at: **[neelmerja@gmail.com](mailto:neelmerja@gmail.com)**
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=text&color=gradient&text=%F0%9F%92%BC%20Projects&fontSize=30&fontColor=fff&animation=twinkling&height=50"/>
-</div>
+## 🚀 Key Projects
+
+My portfolio showcases a blend of full-stack development and cutting-edge AI integration:
 
 ### 🔬 [Skin Diseases Detection](https://github.com/neel1112/skin_problem_detector)
-**Tech Stack:** Python, ML, DL, TensorFlow, Flask, React, MySQL/Firebase
-- Developed a web app that detects skin diseases from images using AI and deep learning.
-- Integrated front-end with back-end AI models for real-time analysis and results.
+**Tech Stack:** `Python` | `ML` | `DL` | `TensorFlow` | `Flask` | `React` | `MySQL/Firebase`
+* Engineered a comprehensive web application for **AI-powered skin disease diagnosis** from images.
+* Seamlessly integrated advanced deep learning models with a full-stack web interface, providing **real-time analysis and accurate results**.
 
 ### 💊 [Vita-Cam Efficiency](https://github.com/neel1112/vitamin-deficiency-detector)
-**Tech Stack:** HTML, CSS, JS, Machine Learning, Deep Learning
-- Created a web tool that analyzes vitamin efficiency using AI.
-- Focused on enhancing vitamin bioavailability through analytical research.
+**Tech Stack:** `HTML` | `CSS` | `JavaScript` | `Machine Learning` | `Deep Learning`
+* Developed an innovative web tool utilizing AI to **analyze vitamin efficiency**.
+* Conducted analytical research to enhance **vitamin bioavailability**, translating insights into practical user guidance.
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=text&color=gradient&text=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BC%20Leadership%20&%20Volunteering&fontSize=28&fontColor=fff&animation=twinkling&height=50"/>
-</div>
+## 🌟 Leadership & Community Engagement
 
-### 🚀 Smart India Hackathon (SIH) - Co-Team Leader
-- Led a team of 6 in analyzing gender ratios in education using AI.
-- Presented insights using dashboards and ML visualizations.
+Beyond technical skills, I actively contribute through leadership and volunteering:
 
-### 🌱 NSS Volunteer
-- Participated in multiple social causes: blood donation, health camps, disaster relief, and environmental drives.
+* **Smart India Hackathon (SIH) - Co-Team Leader:** Successfully led a 6-member team in an AI-driven project to **analyze gender ratios in education**. Presented actionable insights through compelling dashboards and ML visualizations.
+* **NSS Volunteer:** Committed to social causes, actively participating in blood donation drives, health camps, disaster relief, and environmental initiatives.
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=text&color=gradient&text=%F0%9F%8F%85%20Achievements&fontSize=30&fontColor=fff&animation=twinkling&height=50"/>
-</div>
+## 🏅 Achievements & Certifications
 
-- 🧠 **Ideathon 2025:** Recognized for innovative project ideas for future development.
-- 🧾 **Certifications:**
-  - Python with Data Science – NPTEL *(2024–2027)*
-  - Enhancing Soft Skills – NPTEL
+My commitment to innovation and growth is recognized by:
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=text&color=gradient&text=%F0%9F%92%BB%20Skills%20&%20Tech%20Stack&fontSize=30&fontColor=fff&animation=twinkling&height=50"/>
-</div>
-
-**Languages:** Python, JavaScript, HTML, CSS
-**Frameworks:** React, Flask
-**ML Tools:** TensorFlow, Keras, NumPy, Pandas, Jupyter Notebook
-**Databases:** MySQL, Firebase
-**Tools:** GitHub, Postman, VS Code
+* **Ideathon 2025:** Acknowledged for presenting **innovative project concepts** with significant future development potential.
+* **Certifications:**
+    * **Python with Data Science** – NPTEL *(Valid until 2027)*
+    * **Enhancing Soft Skills** – NPTEL
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=text&color=gradient&text=%F0%9F%8C%90%20Connect%20with%20Me&fontSize=30&fontColor=fff&animation=twinkling&height=50"/>
-</div>
+## 💻 Technical Expertise
 
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neel-merja-9b60aa273)
-  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/neel1112)
-  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neelmerja@gmail.com)
-</div>
+My versatile skill set allows me to build robust and intelligent applications:
+
+| Category          | Technologies                                                                 |
+| :---------------- | :--------------------------------------------------------------------------- |
+| **Languages** | `Python` • `JavaScript` • `HTML` • `CSS`                                     |
+| **Frameworks** | `React` • `Flask`                                                            |
+| **ML/Data Science** | `TensorFlow` • `Keras` • `NumPy` • `Pandas` • `Jupyter Notebook`             |
+| **Databases** | `MySQL` • `Firebase`                                                         |
+| **Tools/Platforms** | `GitHub` • `Postman` • `VS Code`                                             |
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=text&color=gradient&text=%F0%9F%93%88%20GitHub%20Stats&fontSize=30&fontColor=fff&animation=twinkling&height=50"/>
-</div>
+## 🌐 Connect with Me
+
+I'm always open to discussing new ideas, collaborations, or opportunities. Let's connect!
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=neel1112&theme=radical&hide_border=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel1112&theme=radical&hide_border=false&layout=compact"/>
+  <a href="https://www.linkedin.com/in/neel-merja-9b60aa273" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/neel1112" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="mailto:neelmerja@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://neelportfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?logo=netlify&logoColor=white" alt="Portfolio">
+  </a>
 </div>
 
 ---
 
+## 📊 GitHub Contributions & Insights
+
+Showcasing my activity and passion for development:
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=text&color=gradient&text=%F0%9F%94%A5%20GitHub%20Activity%20Graph&fontSize=30&fontColor=fff&animation=twinkling&height=50"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=neel1112&theme=radical&hide_border=false" alt="GitHub Streak Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neel1112&theme=radical&hide_border=false&layout=compact" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neel1112&theme=radical&hide_border=false" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=neel1112&theme=radical&hide_border=false" width="95%" alt="GitHub Activity Graph"/>
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=text&color=gradient&text=%E2%9C%8D%EF%B8%8F%20Dev%20Quote&fontSize=30&fontColor=fff&animation=twinkling&height=50"/>
-</div>
+## ✍️ Dev Quote
 
 <div align="center">
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
